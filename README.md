@@ -8,7 +8,7 @@ The webpage celebrates my mother's kindness, cooking, strength, encouragement an
 
 Files
 
-- index.html – Contains the webpage structure and content.
+-index.html – Contains the webpage structure and content.
 - style.css – Contains the styling and design.
 
 Technologies Used
